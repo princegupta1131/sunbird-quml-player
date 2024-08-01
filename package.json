@@ -28,7 +28,7 @@
     "@project-sunbird/sunbird-player-sdk": "0.0.8",
     "@project-sunbird/sunbird-quml-player": "file:dist/quml-library",
     "@project-sunbird/telemetry-sdk": "0.0.26",
-    "bootstrap": "4.1.1",
+    "bootstrap": "5.0.0",
     "core-js": "^2.5.4",
     "fs-extra": "^8.1.0",
     "jquery": "^3.5.1",
